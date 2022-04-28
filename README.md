@@ -1,5 +1,5 @@
 ### Hola a todos 👋
-Me llamo Karol Bracho y estoy buscando mi primera experiencia como desarrollador frontend.
+Me llamo Karol Bracho y estoy buscando mi primera experiencia como desarrollador web. Tengo conocimientos en html, css, js, python, java and mysql.
 
 ## ES
 - 🔭 He desarrollado algunas webs de emprendedores con wordpress (freelance).
@@ -11,7 +11,7 @@ Me llamo Karol Bracho y estoy buscando mi primera experiencia como desarrollador
 
 ## EN
 ### Hello everyone 👋
-My name is Karol Bracho and I am looking for my first experience as a frontend developer.
+My name is Karol Bracho and I am looking for my first experience as a web developer. I have knowledge in html, css, js, python, java and mysql.
 
 - 🔭 I've developed some entrepreneurs' websites with wordpress (freelance).
 - 🌱 I’m currently pursuing a bachelor in applied technology, emphasis in web development. (Brigham Young University - Idaho)
