@@ -1,16 +1,22 @@
-### Hi there 👋
+### Hola a todos 👋
+Me llamo Karol Bracho y estoy buscando mi primera experiencia como desarrollador frontend.
 
-<!--
-**bykarol/bykarol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ES
+- 🔭 He desarrollado algunas webs de emprendedores con wordpress (freelance).
+- 🌱 Actualmente estoy cursando la licenciatura en tecnología aplicada, énfasis en desarrollo web. (Universidad Brigham Young - Idaho)
+- 🤔 Busco mi primera experiencia laboral formal como desarrollador web junior.
+- 📫 Cómo contactarme: https://www.linkedin.com/in/karolbrachoyanez/
 
-Here are some ideas to get you started:
+------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## EN
+### Hello everyone 👋
+My name is Karol Bracho and I am looking for my first experience as a frontend developer.
+
+- 🔭 I've developed some entrepreneurs' websites with wordpress (freelance).
+- 🌱 I’m currently pursuing a bachelor in applied technology, emphasis in web development. (Brigham Young University - Idaho)
+- 🤔 I’m looking for my first formal job experience as junior web developer.
+- 📫 How to reach me: https://www.linkedin.com/in/karolbrachoyanez/
+
+
+![Perfil IG](https://user-images.githubusercontent.com/79916269/165809144-f4657294-9787-4e51-a918-e6a78e71f5cd.jpg)
