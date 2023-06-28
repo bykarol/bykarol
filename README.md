@@ -19,7 +19,5 @@ My name is Karol Bracho and I am actively searching for a career in Web Frontend
 - 📫 How to reach me: https://www.linkedin.com/in/karolbrachoyanez/
 
 
-[KarolBracho_resume_webdev.pdf](https://github.com/bykarol/bykarol/files/11899886/KarolBracho_resume_webdev.pdf)
+![cv_BrachoKarol_webdev](https://github.com/bykarol/bykarol/assets/79916269/cacdb76b-c259-4f24-b12c-c5b514985b13.png)
 
-
-![Perfil IG](https://user-images.githubusercontent.com/79916269/165809144-f4657294-9787-4e51-a918-e6a78e71f5cd.jpg)
