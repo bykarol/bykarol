@@ -6,7 +6,7 @@ My name is Karol Bracho and I am actively searching for a career in Web Frontend
 - 🤔 I’m looking for my first formal job experience as junior web developer.
 - 📫 How to reach me: [Visit my LinkedIn profile](https://www.linkedin.com/in/karolbrachoyanez/)
 
-![My resume](https://github.com/bykarol/bykarol/blob/bb2999551ab157c710b36125b47f1fd16d83a2c6/resumen_BrachoKarol.jpg)
+![My resume](https://github.com/bykarol/bykarol/blob/main/Resume-webdev-BrachoKarol.pdf)
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## ES
