@@ -1,5 +1,5 @@
 ### Hello everyone 👋
-My name is Karol Bracho and I am actively searching for a career in Web Frontend Developer. I handle html, css, js, python, java, mysql,  C#, React and Node JS. Javascript is my strenght.
+My name is Karol Bracho and I am actively searching for a career in Web Frontend Developer. I handle HTML, CSS, JS, Python, MySQL, MongoDB, C#, React and Node JS. Javascript is my strenght.
 
 - 🔭 I've developed some entrepreneurs' websites with wordpress (freelance).
 - 🌱 I’m currently pursuing a bachelor in applied technology, emphasis in web development. (Brigham Young University - Idaho)
