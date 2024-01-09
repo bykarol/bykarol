@@ -4,7 +4,7 @@ My name is Karol Bracho and I am actively searching for a career in Web Frontend
 - 🔭 I've developed some entrepreneurs' websites with wordpress (freelance).
 - 🌱 I’m currently pursuing a bachelor in applied technology, emphasis in web development. (Brigham Young University - Idaho)
 - 🤔 I’m looking for my first formal job experience as junior web developer.
-- 📫 How to reach me: [Visit my LinkedIn profile](https://www.linkedin.com/in/karolbrachoyanez/)
+- 📫 How to reach me: [Visit my LinkedIn profile](https://www.linkedin.com/in/karolbrachoyanez/?locale=en_US)
 
 ![My resume](Resume-webdev-BrachoKarol.jpg)
 
